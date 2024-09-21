@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: d2bdocker/ultimate-cicd:20
+        image: d2bdocker/ultimate-cicd:21
         ports:
         - containerPort: 8080
